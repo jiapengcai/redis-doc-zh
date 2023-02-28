@@ -1,1 +1,1 @@
-# redis_docs_zh
+# redis-doc-zh
